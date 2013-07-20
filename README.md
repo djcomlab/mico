@@ -1,6 +1,6 @@
 mico
 ====
-Mico (pronounced mee-koh) is a software platform that provides a set of application level peer-to-peer services for the ad-hoc formation and facilitation of collaborative groups across a diverse mobile device domain. Mico builds on the Java Micro Edition and Standard Edition bindings of the JXTA protocols, and is designed with an approach to use the lowest common denominators that are required for collaboration between varying degrees of mobile device capability.
+Mico (pronounced mee-koh) is a software framework that provides a set of application level peer-to-peer services for the ad-hoc formation and facilitation of collaborative groups across a diverse mobile device domain. Mico builds on the Java Micro Edition and Standard Edition bindings of the JXTA protocols, and is designed with an approach to use the lowest common denominators that are required for collaboration between varying degrees of mobile device capability.
 
 If you wish to cite or reference this software, it was first described in this paper:
 ```
