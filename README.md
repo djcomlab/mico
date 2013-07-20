@@ -15,3 +15,8 @@ David Johnson
 "mico: a framework for developing groupware for a diverse mobile environment"
 The University of Reading, UK (2010).
 ```
+
+* MicoPlatform is the core library
+* MicoSuperPeerServlet is the JXTA super-peer runner
+* MicoMultiChat is a group messaging MIDlet
+* MicoMicroBrowser is a group Web browser MIDlet based on JCellBrowser
