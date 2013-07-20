@@ -1,3 +1,0 @@
-mico
-====
-Mico (pronounced mee-koh) is a software platform that provides a set of application level peer-to-peer services for the ad-hoc formation and facilitation of collaborative groups across a diverse mobile device domain. Mico builds on the Java Micro Edition and Standard Edition bindings of the JXTA protocols, and is designed with an approach to use the lowest common denominators that are required for collaboration between varying degrees of mobile device capability.Mico provides two basic services that applications can be built on: 1. a group messaging service enables arbitrary communication with text, audio, and video 2. a content sharing service facilitates multimedia content sharing across groups with a search system based on user-generated tags.
